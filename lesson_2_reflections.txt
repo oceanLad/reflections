@@ -1,0 +1,4 @@
+Initialise a repository so that git can be used with it. It has useful defaults - no initial commit without an explicit command.
+
+
+Staging area allows changes to be made and worked on before making a commit and adding those changes to the repository. It allows us to partition changes made in the working directory into different logical 'chunks'.

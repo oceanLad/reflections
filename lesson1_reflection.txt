@@ -1,0 +1,10 @@
+Used diff to see changes between files. Good for single file or small project. Too unwieldy for larger projects and relies on having an older version of the file to compare back to.
+
+
+Using History for efficiency.
+It doesn't rely on physical copies. It means you can 'jump' between different versions without stepping through the intermeidate versions.
+
+Commits
+It's better to choose your own commits because automatic saving is unlikely to match the logical units the changes fall into.
+
+'git log' gets the commit IDs and then 'git diff' lets us look at the changes introduced in that commit.
