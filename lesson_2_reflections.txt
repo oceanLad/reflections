@@ -6,3 +6,5 @@ Staging area allows changes to be made and worked on before making a commit and 
 Many changed files in the working directory. Add those that make a logical chunk to staging and then commit that.
 
 Branches are useful for major changes (overall) but where we still want a earlier working version of the project.
+Imagine working on a feature and we find an (unrelated) bug. Create a new branch to fix the bug, which leaves the feature work as it was, and then we can merge the bugfix in later.
+
